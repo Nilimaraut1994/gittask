@@ -1,2 +1,2 @@
 Hello 
-this is my new git project
+This is my new git project
